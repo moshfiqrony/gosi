@@ -1,7 +1,7 @@
 import os
 
 # get all icon name
-my_file_list = os.listdir('.')
+my_file_list = sorted(os.listdir('.'))
 
 # open readme file to write
 my_txt = open('README.md', 'w')
