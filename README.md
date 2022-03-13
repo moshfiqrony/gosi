@@ -1,4 +1,5 @@
-# google-official-svg-icons
+
+# GOSI - Google Official Svg Icons
 ![document_icon.svg](document_icon.svg)
 ![document_logo.svg](document_logo.svg)
 ![draw.svg](draw.svg)
